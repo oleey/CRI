@@ -1,0 +1,22 @@
+body{
+    width: 100%;
+}
+#navigation ul {
+    list-style-type: none;
+    background-color: black;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+#navigation ul li {
+    float: left;
+}
+
+#navigation ul li a{
+    display: block;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    padding: 16px;
+}
